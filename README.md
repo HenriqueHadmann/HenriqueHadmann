@@ -1,8 +1,8 @@
 - 👋 Oi, eu sou @HenriqueHadmann
 - 👀 Estou interessado em aprender e me aperfeiçoar em desenvolvimento.
 - 🌱 Estou atualmente cursando Desenvolvimento de Sistemas em ETEC Jd Angela.
-- 💞️ Minha especialidade é HTML e CSS.
-- 📫 Entre em contato.
+- 💞️ Meu objetivo maior é ligar tudo o que eu aprendi com minha paixão que é a MODA.
+- 📫 O Desenvolvedor mais estiloso do site.
 
 <!---
 HenriqueHadmann/HenriqueHadmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
