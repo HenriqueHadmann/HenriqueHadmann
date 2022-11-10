@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @HenriqueHadmann
+- 👋 Oi, eu sou Henrique Hadmann
 - 👀 Estou interessado em aprender e me aperfeiçoar em desenvolvimento.
 - 🌱 Estou atualmente cursando Desenvolvimento de Sistemas em ETEC Jd Angela.
 - 💞️ Meu objetivo maior é ligar tudo o que eu aprendi com minha paixão que é a MODA.
