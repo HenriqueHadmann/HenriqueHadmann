@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou Henrique Hadmann.
-- 👀 Estou interessado em aprender e em esninar.
+- 👀 Estou interessado em aprender e em ensinar.
 - 🌱 Estou atualmente cursando Desenvolvimento de Sistemas em ETEC Jd Angela.
 - 💞️ Meu objetivo maior é ligar tudo o que eu aprendi com minha paixão que é a MODA.
 - 📫 O Desenvolvedor mais estiloso do site.
